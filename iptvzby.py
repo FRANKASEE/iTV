@@ -46,7 +46,7 @@ with open("GAT.txt", "w", encoding="utf-8") as output:
 
 
 #  获取远程体育直播源文件
-url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cx4x/Cxxx/main/TKTY.m3u"
+url = "https://raw.githubusercontent.com/Love4vn/love4vn/main/IPTVSport.m3u"
 response = requests.get(url)
 m3u_content = response.text
 
