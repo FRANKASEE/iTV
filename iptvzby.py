@@ -60,7 +60,7 @@ with open("GAT.txt", "w", encoding="utf-8") as output:
 #  获取远程港澳台直播源文件
 url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/iamfang2019/MyTV/main/TW_allsource"
 r = requests.get(url)
-open('TW_allsource.txt', 'wb').write(r.content)
+open('DIYP-v4.txt', 'wb').write(r.content)
 
 keywords = ['TVB翡翠台', 'TVB明珠台', 'TVB plus', 'HOY资讯台', 'TVB直播', '無線財經資訊台', '鳳凰香港', '鳳凰衛視', '鳳凰资讯',
             '星空衛視', '18台', '廣東珠江', '澳門蓮花', '鳳凰電影', 'Viutv 6', '創世電視', '澳亞衛視', 'TVB亞洲劇', 'TVB粵語片',
@@ -76,7 +76,7 @@ keywords = ['TVB翡翠台', 'TVB明珠台', 'TVB plus', 'HOY资讯台', 'TVB直�
             'TVB星河台', '无线新闻台', '无线娱乐新闻台', 'TVB功夫台', 'TVB星河台', 'TVB娱乐新闻台', '凤凰卫视', '凤凰香港',
             'TVB翡翠台', 'TVB明珠台', 'TVB无线新闻台', 'TVB J2台', 'TVB翡翠台 4K', 'TVB J1', '星空卫视', '耀才财经台HD']  # 需要提取的关键字列表
 pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
-with open('TW_allsource.txt', 'r', encoding='utf-8') as file, open('HK2.txt', 'w', encoding='utf-8') as HK:
+with open('DIYP-v4.txt', 'r', encoding='utf-8') as file, open('HK2.txt', 'w', encoding='utf-8') as HK:
     HK.write('\n港澳频道,#genre#\n')
     for line in file:
         if re.search(pattern, line):  # 如果行中有任意关键字
@@ -87,7 +87,7 @@ keywords = ['民视', '中视', '台视', '华视', '新闻台', '東森', '龙�
             '好萊塢', '愛爾達', '龍華', '美亞', '龍翔', '影迷數位', '采昌', '天映', 'Trill恐怖電影', '華納', '博斯', '探索',
             '大陸尋奇', '動物星球', '視納華仁', '華藝', 'AMC电影', '半岛新闻', '韩国电影', '亚洲', '好消息', 'CATCHPLAY电影']  # 需要提取的关键字列表
 pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
-with open('TW_allsource.txt', 'r', encoding='utf-8') as file, open('TW2.txt', 'w', encoding='utf-8') as TW:
+with open('DIYP-v4.txt', 'r', encoding='utf-8') as file, open('TW2.txt', 'w', encoding='utf-8') as TW:
     TW.write('\n台湾频道,#genre#\n')
     for line in file:
         if re.search(pattern, line):  # 如果行中有任意关键字
