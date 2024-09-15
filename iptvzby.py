@@ -10,7 +10,7 @@ from datetime import datetime
 
 
 #  获取远程港澳台直播源文件
-url = "https://mirror.ghproxy.com/https://github.com/Fairy8o/IPTV/blob/main/PDX-V4.txt"
+url = "https://raw.githubusercontent.com/xingzhe010203/xingzhe/main/IOS-V4.m3u"
 r = requests.get(url)
 open('PDX-V4.txt', 'wb').write(r.content)
 
@@ -1270,6 +1270,7 @@ os.remove("bj.txt")
 os.remove("hn.txt")
 os.remove("ph.txt")
 os.remove("DIYP-v4.txt")
+os.remove("PDX-V4.txt")
 os.remove("GAT.txt")
 os.remove("HK.txt")
 os.remove("TW.txt")
