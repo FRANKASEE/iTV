@@ -2,7 +2,7 @@ name: iptvzby
 
 on:
   schedule:
-    - cron: '0 21,9 * * *'
+    - cron: '0 20,8 * * *'
   push:
     branches:
       - main
