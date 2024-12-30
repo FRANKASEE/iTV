@@ -1,4 +1,114 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://219.139.27.192:7777/rtp/239.254.96.96:8550
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://219.139.27.192:7777/rtp/239.69.1.102:10250
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://219.139.27.192:7777/rtp/239.69.1.122:10370
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://219.139.27.192:7777/rtp/239.69.1.138:10466
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://219.139.27.192:7777/rtp/239.254.96.234:9484
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://219.139.27.192:7777/rtp/239.69.1.12:9712
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://219.139.27.192:7777/rtp/239.69.1.123:10376
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://219.139.27.192:7777/rtp/239.69.1.124:10382
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://219.139.27.192:7777/rtp/239.69.1.103:10256
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://219.139.27.192:7777/rtp/239.69.1.125:10388
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://219.139.27.192:7777/rtp/239.69.1.104:10262
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://219.139.27.192:7777/rtp/239.69.1.105:10268
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://219.139.27.192:7777/rtp/239.69.1.154:10560
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://219.139.27.192:7777/rtp/239.69.1.106:10274
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://219.139.27.192:7777/rtp/239.254.96.161:9040
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://219.139.27.192:7777/rtp/239.69.1.107:10280
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://219.139.27.192:7777/rtp/239.69.1.155:10566
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://219.139.27.192:7777/rtp/239.69.1.247:11124
+#EXTINF:-1 group-title="央视频道",CCTV16-4K
+http://219.139.27.192:7777/rtp/239.69.1.13:9718
+#EXTINF:-1 group-title="央视频道",CCTV16奥林匹克-4K
+http://219.139.27.192:7777/rtp/239.69.1.249:11136
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://219.139.27.192:7777/rtp/239.69.1.152:10548
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://219.139.27.192:7777/rtp/239.69.1.91:10186
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://219.139.27.192:7777/rtp/239.69.1.98:10224
+#EXTINF:-1 group-title="央视频道",CCTV第一剧场
+http://219.139.27.192:7777/rtp/239.69.1.74:10084
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://219.139.27.192:7777/rtp/239.69.1.79:10114
+#EXTINF:-1 group-title="央视频道",CCTV高尔夫网球
+http://219.139.27.192:7777/rtp/239.69.1.83:10138
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://219.139.27.192:7777/rtp/239.69.1.81:10126
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://219.139.27.192:7777/rtp/239.69.1.108:10286
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://219.139.27.192:7777/rtp/239.254.96.141:8920
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://219.139.27.192:7777/rtp/239.69.1.173:10674
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://219.139.27.192:7777/rtp/239.254.96.142:8926
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://219.139.27.192:7777/rtp/239.69.1.212:10914
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://219.139.27.192:7777/rtp/239.69.1.169:10650
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://219.139.27.192:7777/rtp/239.69.1.70:10060
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://219.139.27.192:7777/rtp/239.69.1.68:10048
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://219.139.27.192:7777/rtp/239.69.1.69:10054
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://219.139.27.192:7777/rtp/239.254.96.140:8914
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://219.139.27.192:7777/rtp/239.69.1.191:10788
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://119.98.133.175:8888/rtp/239.254.96.113:9616
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://119.98.133.175:8888/rtp/239.69.1.168:10644
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://119.98.133.175:8888/rtp/239.69.1.157:10578
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://119.98.133.175:8888/rtp/239.69.1.71:10066
+#EXTINF:-1 group-title="湖北频道",武汉一台新闻综合
+http://219.139.27.192:7777/rtp/239.69.1.145:10506
+#EXTINF:-1 group-title="其他频道",BestTV测试1-4K
+http://219.139.27.192:7777/rtp/239.69.1.26:9796
+#EXTINF:-1 group-title="其他频道",CETV1
+http://219.139.27.192:7777/rtp/239.69.1.110:10298
+#EXTINF:-1 group-title="其他频道",BestTV测试2-4K
+http://219.139.27.192:7777/rtp/239.69.1.27:9802
+#EXTINF:-1 group-title="其他频道",BestTV测试3-4K
+http://219.139.27.192:7777/rtp/239.69.1.25:9790
+#EXTINF:-1 group-title="其他频道",CHC-动作电影
+http://219.139.27.192:7777/rtp/239.69.1.242:11094
+#EXTINF:-1 group-title="其他频道",CHC-家庭影院
+http://219.139.27.192:7777/rtp/239.69.1.243:11100
+#EXTINF:-1 group-title="其他频道",CHC-高清电影
+http://219.139.27.192:7777/rtp/239.69.1.241:11088
+#EXTINF:-1 group-title="其他频道",卡酷少儿
+http://219.139.27.192:7777/rtp/239.69.1.193:10800
+#EXTINF:-1 group-title="其他频道",快乐垂钓
+http://219.139.27.192:7777/rtp/239.69.1.142:10488
+#EXTINF:-1 group-title="其他频道",房县综合
+http://219.139.27.192:7777/rtp/239.69.1.192:10794
+#EXTINF:-1 group-title="其他频道",武术世界
+http://219.139.27.192:7777/rtp/239.69.1.47:9922
+#EXTINF:-1 group-title="其他频道",金鹰卡通
+http://119.98.133.175:8888/rtp/239.69.1.248:11130
 #EXTINF:-1 group-title="台湾频道",年代新聞
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 group-title="台湾频道",年代新聞
@@ -48,9 +158,9 @@ http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MB5B9982559699825596
 #EXTINF:-1 group-title="台湾频道",年代新聞
 p3p://108.181.20.159:09318/5fe09fec000ac0127462c4ac6b1f16a3
 #EXTINF:-1 group-title="台湾频道",東森新聞
-http://www.ubvip1688.com/ublive/34acd6302f9b1480.m3u8
+http://www.ubvip1688.com/ublive/530ce8b041f6e633.m3u8
 #EXTINF:-1 group-title="台湾频道",東森新聞
-http://www.ubvip1688.com/ublive/34acd6302f9b1480.m3u8
+http://www.ubvip1688.com/ublive/530ce8b041f6e633.m3u8
 #EXTINF:-1 group-title="台湾频道",東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 group-title="台湾频道",東森新聞
@@ -136,9 +246,9 @@ video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=234
 #EXTINF:-1 group-title="台湾频道",東森新聞
 p3p://108.181.20.159:09318/61468afa0005b339ea7014d376a616f3
 #EXTINF:-1 group-title="台湾频道",華視新聞
-http://www.ubvip1688.com/ublive/350a40a20e292833.m3u8
+http://www.ubvip1688.com/ublive/7da8c42750b586ee.m3u8
 #EXTINF:-1 group-title="台湾频道",華視新聞
-http://www.ubvip1688.com/ublive/350a40a20e292833.m3u8
+http://www.ubvip1688.com/ublive/7da8c42750b586ee.m3u8
 #EXTINF:-1 group-title="台湾频道",華視新聞
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 #EXTINF:-1 group-title="台湾频道",華視新聞
@@ -314,9 +424,9 @@ video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
 #EXTINF:-1 group-title="台湾频道",中天新聞
 p3p://108.181.20.159:09318/613dba64000abeb1c801c02934bb45fc
 #EXTINF:-1 group-title="台湾频道",中視新聞
-http://www.ubvip1688.com/ublive/c6ce3fbb1b7c83a7.m3u8
+http://www.ubvip1688.com/ublive/75f8dd61a0a6b303.m3u8
 #EXTINF:-1 group-title="台湾频道",中視新聞
-http://www.ubvip1688.com/ublive/c6ce3fbb1b7c83a7.m3u8
+http://www.ubvip1688.com/ublive/75f8dd61a0a6b303.m3u8
 #EXTINF:-1 group-title="台湾频道",中視新聞
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 group-title="台湾频道",中視新聞
@@ -372,9 +482,9 @@ video://https://www.ofiii.com/channel/watch/4gtv-4gtv074
 #EXTINF:-1 group-title="台湾频道",中視新聞
 p3p://108.181.20.159:09318/61ff2b9d0004cfe6bb9a99f71e1c4c92
 #EXTINF:-1 group-title="台湾频道",台視新聞
-http://www.ubvip1688.com/ublive/11e759cf1aad6a52.m3u8
+http://www.ubvip1688.com/ublive/3255669a9db18c41.m3u8
 #EXTINF:-1 group-title="台湾频道",台視新聞
-http://www.ubvip1688.com/ublive/11e759cf1aad6a52.m3u8
+http://www.ubvip1688.com/ublive/3255669a9db18c41.m3u8
 #EXTINF:-1 group-title="台湾频道",台視新聞
 https://www.youtube.com/watch?v=xL0ch83RAK8
 #EXTINF:-1 group-title="台湾频道",台視新聞
@@ -462,9 +572,9 @@ video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=211
 #EXTINF:-1 group-title="台湾频道",東森財經
 p3p://108.181.20.159:09318/61468bd70005123dea7373f226636dba
 #EXTINF:-1 group-title="台湾频道",民視
-http://www.ubvip1688.com/ublive/da35bbdc70ef7f79.m3u8
+http://www.ubvip1688.com/ublive/fe908c8157c0bf4c.m3u8
 #EXTINF:-1 group-title="台湾频道",民視
-http://www.ubvip1688.com/ublive/da35bbdc70ef7f79.m3u8
+http://www.ubvip1688.com/ublive/fe908c8157c0bf4c.m3u8
 #EXTINF:-1 group-title="台湾频道",民視
 rtmp://f13h.mine.nu:1935/sat/tv051
 #EXTINF:-1 group-title="台湾频道",民視
@@ -538,11 +648,11 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 #EXTINF:-1 group-title="台湾频道",民視
 p3p://108.181.20.159:09318/6001ba8400051d89f5b151a63fa96419
 #EXTINF:-1 group-title="台湾频道",台視
-http://www.ubvip1688.com/ublive/a1639a17a4a9322f.m3u8
+http://www.ubvip1688.com/ublive/48889be591fdf270.m3u8
 #EXTINF:-1 group-title="台湾频道",台視
-http://www.ubvip1688.com/ublive/a1639a17a4a9322f.m3u8
+http://www.ubvip1688.com/ublive/48889be591fdf270.m3u8
 #EXTINF:-1 group-title="台湾频道",台視
-https://f06.fromonlinexcomf.com/live/rx2/27/22e66ce5ea10dff3f0ac3c569210336a/index.m3u8
+https://f02.bootsaleuks.com/live/rx2/27/22e66ce5ea10dff3f0ac3c569210336a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",台視
 rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 group-title="台湾频道",台視
@@ -602,11 +712,11 @@ http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=1
 #EXTINF:-1 group-title="台湾频道",台視
 video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
 #EXTINF:-1 group-title="台湾频道",中視
-http://www.ubvip1688.com/ublive/a78e404929daa0e4.m3u8
+http://www.ubvip1688.com/ublive/2d6057e3165be50b.m3u8
 #EXTINF:-1 group-title="台湾频道",中視
-http://www.ubvip1688.com/ublive/a78e404929daa0e4.m3u8
+http://www.ubvip1688.com/ublive/2d6057e3165be50b.m3u8
 #EXTINF:-1 group-title="台湾频道",中視
-https://f22.ccplay22aldrich.com/live/rx3/1041/0161d4e964e03acd1f0f3cbfe56c70e5/index.m3u8
+https://www.unityanuc.com/live/rx3/1041/0161d4e964e03acd1f0f3cbfe56c70e5/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中視
 rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 group-title="台湾频道",中視
@@ -682,9 +792,9 @@ video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
 #EXTINF:-1 group-title="台湾频道",中視
 p3p://108.181.20.159:09318/621dab720008820a26e1e06b75653395
 #EXTINF:-1 group-title="台湾频道",華視
-http://www.ubvip1688.com/ublive/9a41ca76b60b603c.m3u8
+http://www.ubvip1688.com/ublive/a09755a8130fcde4.m3u8
 #EXTINF:-1 group-title="台湾频道",華視
-http://www.ubvip1688.com/ublive/9a41ca76b60b603c.m3u8
+http://www.ubvip1688.com/ublive/a09755a8130fcde4.m3u8
 #EXTINF:-1 group-title="台湾频道",華視
 https://f27.eggonnetus.com/live/rx3/2282/7c25b5a8a18a8d56acf2c988b814b5f9/index.m3u8
 #EXTINF:-1 group-title="台湾频道",華視
@@ -796,9 +906,9 @@ http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MBEB3305630833056308&ct=1
 #EXTINF:-1 group-title="台湾频道",公視
 p3p://108.181.20.159:09318/63ebf0b7000e7d27e2de13a9113e7096
 #EXTINF:-1 group-title="台湾频道",民視
-http://www.ubvip1688.com/ublive/da35bbdc70ef7f79.m3u8
+http://www.ubvip1688.com/ublive/fe908c8157c0bf4c.m3u8
 #EXTINF:-1 group-title="台湾频道",民視
-http://www.ubvip1688.com/ublive/da35bbdc70ef7f79.m3u8
+http://www.ubvip1688.com/ublive/fe908c8157c0bf4c.m3u8
 #EXTINF:-1 group-title="台湾频道",民視
 rtmp://f13h.mine.nu:1935/sat/tv051
 #EXTINF:-1 group-title="台湾频道",民視
@@ -872,11 +982,11 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 #EXTINF:-1 group-title="台湾频道",民視
 p3p://108.181.20.159:09318/6001ba8400051d89f5b151a63fa96419
 #EXTINF:-1 group-title="台湾频道",台視
-http://www.ubvip1688.com/ublive/a1639a17a4a9322f.m3u8
+http://www.ubvip1688.com/ublive/48889be591fdf270.m3u8
 #EXTINF:-1 group-title="台湾频道",台視
-http://www.ubvip1688.com/ublive/a1639a17a4a9322f.m3u8
+http://www.ubvip1688.com/ublive/48889be591fdf270.m3u8
 #EXTINF:-1 group-title="台湾频道",台視
-https://f06.fromonlinexcomf.com/live/rx2/27/22e66ce5ea10dff3f0ac3c569210336a/index.m3u8
+https://f02.bootsaleuks.com/live/rx2/27/22e66ce5ea10dff3f0ac3c569210336a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",台視
 rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 group-title="台湾频道",台視
@@ -936,11 +1046,11 @@ http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MFAF2768679827686798&ct=1
 #EXTINF:-1 group-title="台湾频道",台視
 video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
 #EXTINF:-1 group-title="台湾频道",中視
-http://www.ubvip1688.com/ublive/a78e404929daa0e4.m3u8
+http://www.ubvip1688.com/ublive/2d6057e3165be50b.m3u8
 #EXTINF:-1 group-title="台湾频道",中視
-http://www.ubvip1688.com/ublive/a78e404929daa0e4.m3u8
+http://www.ubvip1688.com/ublive/2d6057e3165be50b.m3u8
 #EXTINF:-1 group-title="台湾频道",中視
-https://f22.ccplay22aldrich.com/live/rx3/1041/0161d4e964e03acd1f0f3cbfe56c70e5/index.m3u8
+https://www.unityanuc.com/live/rx3/1041/0161d4e964e03acd1f0f3cbfe56c70e5/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中視
 rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 group-title="台湾频道",中視
@@ -1016,9 +1126,9 @@ video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
 #EXTINF:-1 group-title="台湾频道",中視
 p3p://108.181.20.159:09318/621dab720008820a26e1e06b75653395
 #EXTINF:-1 group-title="台湾频道",華視
-http://www.ubvip1688.com/ublive/9a41ca76b60b603c.m3u8
+http://www.ubvip1688.com/ublive/a09755a8130fcde4.m3u8
 #EXTINF:-1 group-title="台湾频道",華視
-http://www.ubvip1688.com/ublive/9a41ca76b60b603c.m3u8
+http://www.ubvip1688.com/ublive/a09755a8130fcde4.m3u8
 #EXTINF:-1 group-title="台湾频道",華視
 https://f27.eggonnetus.com/live/rx3/2282/7c25b5a8a18a8d56acf2c988b814b5f9/index.m3u8
 #EXTINF:-1 group-title="台湾频道",華視
@@ -1296,7 +1406,7 @@ http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MACA7870782778707827&ct=1
 #EXTINF:-1 group-title="台湾频道",三立台灣
 http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=MACA7870782778707827&ct=19669&tsum=52d6062d021d23406f15935a1e478b0e
 #EXTINF:-1 group-title="台湾频道",三立都會
-https://f06.fromonlinexcomf.com/live/rx2/38/5ee330f4d6ccd967306f32ac9ee181a0/index.m3u8
+https://f04.duckinfoint.com/live/rx2/38/5ee330f4d6ccd967306f32ac9ee181a0/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立都會
 https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",三立都會
@@ -1518,9 +1628,9 @@ http://198.16.100.90:8278/drama_twn/playlist.m3u8?tid=MC4C4531871445318714&ct=19
 #EXTINF:-1 group-title="台湾频道",愛爾達影劇
 p3p://108.181.20.159:09318/644f91780000980d6808346f494d7ec1
 #EXTINF:-1 group-title="台湾频道",愛爾達娛樂
-http://www.ubvip1688.com/ublive/472aa7ae03c64a71.m3u8
+http://www.ubvip1688.com/ublive/70832ff0236dc2e3.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達娛樂
-http://www.ubvip1688.com/ublive/472aa7ae03c64a71.m3u8
+http://www.ubvip1688.com/ublive/70832ff0236dc2e3.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達娛樂
 https://f05.eggonnetus.com/live/rx6/351/557be9555a5c3cb30216f77a35086e09/index.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達娛樂
@@ -1578,7 +1688,7 @@ https://z88.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3
 #EXTINF:-1 group-title="台湾频道",年代much
 https://z88.ubtvfans.com/live/rx1/1359/44acb036ef6a4711efb23d82a5d9151e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中天綜合
-https://f07.googleling.com/live/rx3/54/3acb56a57b7b19110cae60fc5f76e45a/index.m3u8
+https://f03.ccbookcohky.com/live/rx3/54/3acb56a57b7b19110cae60fc5f76e45a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中天綜合
 http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 #EXTINF:-1 group-title="台湾频道",中天綜合
@@ -1754,7 +1864,7 @@ mitv://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
 #EXTINF:-1 group-title="台湾频道",緯來戲劇
 p3p://108.181.20.159:09318/5fe29426000330687c04c55011370c91
 #EXTINF:-1 group-title="台湾频道",緯來日本
-https://f06.fromonlinexcomf.com/live/rx2/46/cb95c77fc3fcb5415a955e3267d7e34e/index.m3u8
+https://f09.ibmfocus.com/live/rx2/46/cb95c77fc3fcb5415a955e3267d7e34e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",緯來日本
 rtmp://f13h.mine.nu:1935/sat/tv771
 #EXTINF:-1 group-title="台湾频道",緯來日本
@@ -1814,9 +1924,9 @@ http://198.16.100.90:8278/videolandjapan/playlist.m3u8?tid=MAAA1631271716312717&
 #EXTINF:-1 group-title="台湾频道",緯來日本
 p3p://108.181.20.159:09318/5fe1add80007bbbd788125c43bf36060
 #EXTINF:-1 group-title="台湾频道",靖天日本
-http://www.ubvip1688.com/ublive/2d476e680e750398.m3u8
+http://www.ubvip1688.com/ublive/cd1b2aa5f95b0808.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天日本
-http://www.ubvip1688.com/ublive/2d476e680e750398.m3u8
+http://www.ubvip1688.com/ublive/cd1b2aa5f95b0808.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天日本
 https://f04.duckinfoint.com/live/rx6/108/a635a1d11f55cc11b60ce28f916f9740/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天日本
@@ -1848,9 +1958,9 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 #EXTINF:-1 group-title="台湾频道",靖天日本
 p3p://108.181.20.159:09318/612db74f000c333c897629ac70920bef
 #EXTINF:-1 group-title="台湾频道",靖天戲劇
-http://www.ubvip1688.com/ublive/b5b7cef556f5c887.m3u8
+http://www.ubvip1688.com/ublive/1c8473cc27c8bf9b.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天戲劇
-http://www.ubvip1688.com/ublive/b5b7cef556f5c887.m3u8
+http://www.ubvip1688.com/ublive/1c8473cc27c8bf9b.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天戲劇
 https://f07.googleling.com/live/rx1/109/722498e0ffb0f097bdf238caa10db70b/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天戲劇
@@ -1870,9 +1980,9 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
 #EXTINF:-1 group-title="台湾频道",靖天戲劇
 p3p://108.181.20.159:09318/612db70e000298f98975294e4645098b
 #EXTINF:-1 group-title="台湾频道",采昌影劇
-http://www.ubvip1688.com/ublive/2096c7e9c0287123.m3u8
+http://www.ubvip1688.com/ublive/5745322d36ec6453.m3u8
 #EXTINF:-1 group-title="台湾频道",采昌影劇
-http://www.ubvip1688.com/ublive/2096c7e9c0287123.m3u8
+http://www.ubvip1688.com/ublive/5745322d36ec6453.m3u8
 #EXTINF:-1 group-title="台湾频道",采昌影劇
 https://f09.ibmfocus.com/live/rx6/62/eb6f32d1c9398fd34444e9ac72ea3edf/index.m3u8
 #EXTINF:-1 group-title="台湾频道",采昌影劇
@@ -1892,9 +2002,9 @@ mitv://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911
 #EXTINF:-1 group-title="台湾频道",采昌影劇
 video://https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25
 #EXTINF:-1 group-title="台湾频道",龍華戲劇
-http://www.ubvip1688.com/ublive/3827439392faeca3.m3u8
+http://www.ubvip1688.com/ublive/74fbf5eaa793c543.m3u8
 #EXTINF:-1 group-title="台湾频道",龍華戲劇
-http://www.ubvip1688.com/ublive/3827439392faeca3.m3u8
+http://www.ubvip1688.com/ublive/74fbf5eaa793c543.m3u8
 #EXTINF:-1 group-title="台湾频道",龍華戲劇
 https://f27.eggonnetus.com/live/rx3/365/94dded21bfe65e345f4f9215f15214ca/index.m3u8
 #EXTINF:-1 group-title="台湾频道",龍華戲劇
@@ -1936,9 +2046,9 @@ video://https://www.ofiii.com/channel/watch/litv-longturn18
 #EXTINF:-1 group-title="台湾频道",龍華戲劇
 p3p://108.181.20.159:09318/6214c295000a5fa204149eb30d3c30b4
 #EXTINF:-1 group-title="台湾频道",中視經典
-http://www.ubvip1688.com/ublive/c890547f6912b606.m3u8
+http://www.ubvip1688.com/ublive/d920c2335a6df937.m3u8
 #EXTINF:-1 group-title="台湾频道",中視經典
-http://www.ubvip1688.com/ublive/c890547f6912b606.m3u8
+http://www.ubvip1688.com/ublive/d920c2335a6df937.m3u8
 #EXTINF:-1 group-title="台湾频道",中視經典
 https://www.youtube.com/watch?v=ADDSmXoPDY8
 #EXTINF:-1 group-title="台湾频道",中視經典
@@ -1980,9 +2090,9 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
 #EXTINF:-1 group-title="台湾频道",中視經典
 p3p://108.181.20.159:09318/621db24e000d4a9726fcacfd58c400a2
 #EXTINF:-1 group-title="台湾频道",中視菁采
-http://www.ubvip1688.com/ublive/997ec743fce61995.m3u8
+http://www.ubvip1688.com/ublive/d7d3c1f708342ad8.m3u8
 #EXTINF:-1 group-title="台湾频道",中視菁采
-http://www.ubvip1688.com/ublive/997ec743fce61995.m3u8
+http://www.ubvip1688.com/ublive/d7d3c1f708342ad8.m3u8
 #EXTINF:-1 group-title="台湾频道",中視菁采
 https://f06.fromonlinexcomf.com/live/rx2/74/d055f384fbc67d91b7e491ee456f2253/index.m3u8
 #EXTINF:-1 group-title="台湾频道",中視菁采
@@ -2098,9 +2208,9 @@ mitv://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
 #EXTINF:-1 group-title="台湾频道",公視3
 mitv://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
 #EXTINF:-1 group-title="台湾频道",台視財經
-http://www.ubvip1688.com/ublive/f05f2860bab1820b.m3u8
+http://www.ubvip1688.com/ublive/84ae3129084aa9ae.m3u8
 #EXTINF:-1 group-title="台湾频道",台視財經
-http://www.ubvip1688.com/ublive/f05f2860bab1820b.m3u8
+http://www.ubvip1688.com/ublive/84ae3129084aa9ae.m3u8
 #EXTINF:-1 group-title="台湾频道",台視財經
 https://z88.ubtvfans.com/live/rx1/300/b2a1f44e14f47427518936897549976e/index.m3u8
 #EXTINF:-1 group-title="台湾频道",台視財經
@@ -2124,9 +2234,9 @@ mitv://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
 #EXTINF:-1 group-title="台湾频道",好消息
 video://https://www.4gtv.tv/channel/litv-ftv16?set=1&ch=9
 #EXTINF:-1 group-title="台湾频道",靖天資訊
-http://www.ubvip1688.com/ublive/2964a4b3426e718d.m3u8
+http://www.ubvip1688.com/ublive/16b6c09996c4001c.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天資訊
-http://www.ubvip1688.com/ublive/2964a4b3426e718d.m3u8
+http://www.ubvip1688.com/ublive/16b6c09996c4001c.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天資訊
 https://f04.duckinfoint.com/live/rx2/49/8b5e3a965bcb9c7ed500f53717972080/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天資訊
@@ -2156,9 +2266,9 @@ mitv://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
 #EXTINF:-1 group-title="台湾频道",靖天資訊
 video://https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
 #EXTINF:-1 group-title="台湾频道",靖天綜合
-http://www.ubvip1688.com/ublive/6b2b2437360c2a9c.m3u8
+http://www.ubvip1688.com/ublive/cc16a4763314979d.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天綜合
-http://www.ubvip1688.com/ublive/6b2b2437360c2a9c.m3u8
+http://www.ubvip1688.com/ublive/cc16a4763314979d.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天綜合
 https://www.abouthomex.com/live/rx6/308/a93ce0a8e11448287dba635998781a75/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天綜合
@@ -2190,9 +2300,9 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
 #EXTINF:-1 group-title="台湾频道",靖天綜合
 p3p://108.181.20.159:09318/6223bd68000c7a903e980a5524d66f67
 #EXTINF:-1 group-title="台湾频道",靖天育樂
-http://www.ubvip1688.com/ublive/1d92d0c464d6f10d.m3u8
+http://www.ubvip1688.com/ublive/6c4d6cf2a3f32d59.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天育樂
-http://www.ubvip1688.com/ublive/1d92d0c464d6f10d.m3u8
+http://www.ubvip1688.com/ublive/6c4d6cf2a3f32d59.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天育樂
 https://f05.eggonnetus.com/live/rx6/1029/6c53f8834a8f991f2824933a815026c5/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天育樂
@@ -2224,9 +2334,9 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
 #EXTINF:-1 group-title="台湾频道",靖天育樂
 p3p://108.181.20.159:09318/6223be04000a57323e9a6b2919b21d76
 #EXTINF:-1 group-title="台湾频道",靖天國際
-http://www.ubvip1688.com/ublive/20e24856238e42b2.m3u8
+http://www.ubvip1688.com/ublive/1464b786e345f3f8.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天國際
-http://www.ubvip1688.com/ublive/20e24856238e42b2.m3u8
+http://www.ubvip1688.com/ublive/1464b786e345f3f8.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天國際
 https://f05.eggonnetus.com/live/rx6/345/409aaae6b7254e40dd7786d6960cb6c6/index.m3u8
 #EXTINF:-1 group-title="台湾频道",KLT-靖天國際
@@ -2270,9 +2380,9 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
 #EXTINF:-1 group-title="台湾频道",靖天國際
 p3p://108.181.20.159:09318/612db8220006940e897960753ab534e9
 #EXTINF:-1 group-title="台湾频道",靖天育樂
-http://www.ubvip1688.com/ublive/1d92d0c464d6f10d.m3u8
+http://www.ubvip1688.com/ublive/6c4d6cf2a3f32d59.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天育樂
-http://www.ubvip1688.com/ublive/1d92d0c464d6f10d.m3u8
+http://www.ubvip1688.com/ublive/6c4d6cf2a3f32d59.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天育樂
 https://f05.eggonnetus.com/live/rx6/1029/6c53f8834a8f991f2824933a815026c5/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天育樂
@@ -2304,7 +2414,7 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
 #EXTINF:-1 group-title="台湾频道",靖天育樂
 p3p://108.181.20.159:09318/6223be04000a57323e9a6b2919b21d76
 #EXTINF:-1 group-title="台湾频道",東森電影
-https://f05.eggonnetus.com/live/rx3/350/a9bb24c537e28a17f669ddb3d73f0cf8/index.m3u8
+https://f02.bootsaleuks.com/live/rx3/350/a9bb24c537e28a17f669ddb3d73f0cf8/index.m3u8
 #EXTINF:-1 group-title="台湾频道",東森電影
 P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779#P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
 #EXTINF:-1 group-title="台湾频道",東森電影
@@ -2366,7 +2476,7 @@ http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MC7C1346583413465834&
 #EXTINF:-1 group-title="台湾频道",緯來電影
 p3p://108.181.20.159:09318/62c860e50008ea96c1ae9a96599c6947
 #EXTINF:-1 group-title="台湾频道",東森洋片
-https://f06.fromonlinexcomf.com/live/rx3/1128/ec5126588359f61ea7e88f8c6ebd57e4/index.m3u8
+https://f09.ibmfocus.com/live/rx3/1128/ec5126588359f61ea7e88f8c6ebd57e4/index.m3u8
 #EXTINF:-1 group-title="台湾频道",東森洋片
 P2p://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
 #EXTINF:-1 group-title="台湾频道",東森洋片
@@ -2420,9 +2530,9 @@ http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF5F686236416862
 #EXTINF:-1 group-title="台湾频道",好萊塢電影
 p3p://108.181.20.159:09318/62cee8b3000ea6aedb30a55616047866
 #EXTINF:-1 group-title="台湾频道",影迷數位電影
-http://www.ubvip1688.com/ublive/9b79c53ee672051f.m3u8
+http://www.ubvip1688.com/ublive/703f01326dc6e398.m3u8
 #EXTINF:-1 group-title="台湾频道",影迷數位電影
-http://www.ubvip1688.com/ublive/9b79c53ee672051f.m3u8
+http://www.ubvip1688.com/ublive/703f01326dc6e398.m3u8
 #EXTINF:-1 group-title="台湾频道",影迷數位電影
 https://f05.eggonnetus.com/live/rx2/497/58a7583a90be666b28a6706eb7f6ca23/index.m3u8
 #EXTINF:-1 group-title="台湾频道",影迷數位電影
@@ -2482,9 +2592,9 @@ mitv://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
 #EXTINF:-1 group-title="台湾频道",緯來育樂
 p3p://108.181.20.159:09318/6214bdc7000061300401d77e20cc43d8
 #EXTINF:-1 group-title="台湾频道",緯來體育
-https://f33.unityanuc.com/live/rx2/118/a41a7d62f55149589e9f4134ad82b7e2/index.m3u8
+https://www.unityanuc.com/live/rx2/118/a41a7d62f55149589e9f4134ad82b7e2/index.m3u8
 #EXTINF:-1 group-title="台湾频道",緯來體育
-https://f33.unityanuc.com/live/rx2/118/a41a7d62f55149589e9f4134ad82b7e2/index.m3u8
+https://www.unityanuc.com/live/rx2/118/a41a7d62f55149589e9f4134ad82b7e2/index.m3u8
 #EXTINF:-1 group-title="台湾频道",緯來體育
 rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 group-title="台湾频道",緯來體育
@@ -2526,9 +2636,9 @@ http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MEEE7028377470283774&
 #EXTINF:-1 group-title="台湾频道",緯來體育
 p3p://108.181.20.159:09318/5fe16e4c000e45c17788ec964e9c5564
 #EXTINF:-1 group-title="台湾频道",愛爾達體育1
-https://f32.usplaycdn.com/live/rx3/192/386bf354dfa909e3785fe44bd09be90a/index.m3u8
+https://f23.bootsaleuks.com/live/rx3/192/386bf354dfa909e3785fe44bd09be90a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達體育1
-https://f32.usplaycdn.com/live/rx3/192/386bf354dfa909e3785fe44bd09be90a/index.m3u8
+https://f23.bootsaleuks.com/live/rx3/192/386bf354dfa909e3785fe44bd09be90a/index.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達體育1
 rtmp://twcdn.top/sat/md051
 #EXTINF:-1 group-title="台湾频道",愛爾達體育1
@@ -2558,9 +2668,9 @@ mitv://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
 #EXTINF:-1 group-title="台湾频道",愛爾達體育1
 p3p://108.181.20.159:09318/623a8d50000c965397b2d5b26c7b25bd
 #EXTINF:-1 group-title="台湾频道",愛爾達體育2
-https://f09.ibmfocus.com/live/rx2/2730/e708b07e9d66ac0e768344c76f1f3bb4/index.m3u8
+https://f04.duckinfoint.com/live/rx2/2730/e708b07e9d66ac0e768344c76f1f3bb4/index.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達體育2
-https://f09.ibmfocus.com/live/rx2/2730/e708b07e9d66ac0e768344c76f1f3bb4/index.m3u8
+https://f04.duckinfoint.com/live/rx2/2730/e708b07e9d66ac0e768344c76f1f3bb4/index.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達體育2
 P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
 #EXTINF:-1 group-title="台湾频道",愛爾達體育2
@@ -2586,9 +2696,9 @@ http://198.16.100.90:8278/sport2_twn/playlist.m3u8?tid=ME1E6951020269510202&ct=1
 #EXTINF:-1 group-title="台湾频道",愛爾達體育2
 p3p://108.181.20.159:09318/623a8d8d0001570d97b3c11a65640b68
 #EXTINF:-1 group-title="台湾频道",愛爾達體育3
-https://f09.ibmfocus.com/live/rx3/194/854159896ceb8e5abeab85d6ae58f4ae/index.m3u8
+https://f04.duckinfoint.com/live/rx3/194/854159896ceb8e5abeab85d6ae58f4ae/index.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達體育3
-https://f09.ibmfocus.com/live/rx3/194/854159896ceb8e5abeab85d6ae58f4ae/index.m3u8
+https://f04.duckinfoint.com/live/rx3/194/854159896ceb8e5abeab85d6ae58f4ae/index.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達體育3
 rtmp://f13h.mine.nu:1935/sat/md051
 #EXTINF:-1 group-title="台湾频道",愛爾達體育3
@@ -2622,9 +2732,9 @@ http://198.16.100.90:8278/sport3_twn/playlist.m3u8?tid=MB0B2035870920358709&ct=1
 #EXTINF:-1 group-title="台湾频道",愛爾達體育3
 p3p://108.181.20.159:09318/622e99e60004026169046fd918be6ed7
 #EXTINF:-1 group-title="台湾频道",愛爾達體育4
-https://f07.googleling.com/live/rx3/2820/c814d72f5124263f90c7df61f82212ec/index.m3u8
+https://f33.unityanuc.com/live/rx3/2820/c814d72f5124263f90c7df61f82212ec/index.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達體育4
-https://f07.googleling.com/live/rx3/2820/c814d72f5124263f90c7df61f82212ec/index.m3u8
+https://f33.unityanuc.com/live/rx3/2820/c814d72f5124263f90c7df61f82212ec/index.m3u8
 #EXTINF:-1 group-title="台湾频道",愛爾達體育4
 rtmp://f13h.mine.nu:1935/sat/md041
 #EXTINF:-1 group-title="台湾频道",愛爾達體育4
@@ -2668,11 +2778,11 @@ http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MEFE4910998449109984&
 #EXTINF:-1 group-title="台湾频道",博斯運動
 video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 #EXTINF:-1 group-title="台湾频道",博斯運動2
-http://www.ubvip1688.com/ublive/5404051366f8b27b.m3u8
+http://www.ubvip1688.com/ublive/12fb48ec803872b5.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯運動2
-http://www.ubvip1688.com/ublive/5404051366f8b27b.m3u8
+http://www.ubvip1688.com/ublive/12fb48ec803872b5.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯運動2
-http://www.ubvip1688.com/ublive/5404051366f8b27b.m3u8
+http://www.ubvip1688.com/ublive/12fb48ec803872b5.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯運動2
 https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯運動2
@@ -2716,13 +2826,13 @@ http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MF2F4100164941001649&c
 #EXTINF:-1 group-title="台湾频道",博斯高球
 video://https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48
 #EXTINF:-1 group-title="台湾频道",博斯高球2
-http://www.ubvip1688.com/ublive/ce67c61296d144e2.m3u8
+http://www.ubvip1688.com/ublive/bfe732615bfa2b2b.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯高球2
-http://www.ubvip1688.com/ublive/ce67c61296d144e2.m3u8
+http://www.ubvip1688.com/ublive/bfe732615bfa2b2b.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯高球2
 https://f22.ccplay22aldrich.com/live/rx3/378/44dea8ff662b6cd43b53946b19021dc7/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯高球2
-http://www.ubvip1688.com/ublive/ce67c61296d144e2.m3u8
+http://www.ubvip1688.com/ublive/bfe732615bfa2b2b.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯高球2
 https://f22.ccplay22aldrich.com/live/rx3/378/44dea8ff662b6cd43b53946b19021dc7/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯高球2
@@ -2744,13 +2854,13 @@ http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MFFF6221203062212030&c
 #EXTINF:-1 group-title="台湾频道",博斯高球2
 p3p://108.181.20.159:09318/6258e1c9000c6f010e2b77e9601b5186
 #EXTINF:-1 group-title="台湾频道",博斯網球
-http://www.ubvip1688.com/ublive/fbcd1366f3bc4a47.m3u8
+http://www.ubvip1688.com/ublive/6c6164d0f0e897d4.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯網球
-http://www.ubvip1688.com/ublive/fbcd1366f3bc4a47.m3u8
+http://www.ubvip1688.com/ublive/6c6164d0f0e897d4.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯網球
 https://f05.eggonnetus.com/live/rx3/498/f340b8c527112a503ae6978a78398a03/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯網球
-http://www.ubvip1688.com/ublive/fbcd1366f3bc4a47.m3u8
+http://www.ubvip1688.com/ublive/6c6164d0f0e897d4.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯網球
 https://f05.eggonnetus.com/live/rx3/498/f340b8c527112a503ae6978a78398a03/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯網球
@@ -2776,13 +2886,13 @@ video://https://www.4gtv.tv/channel/litv-longturn09?set=1&ch=52
 #EXTINF:-1 group-title="台湾频道",博斯網球
 p3p://108.181.20.159:09318/6275f21d000aeb447fb1e83c30d60273
 #EXTINF:-1 group-title="台湾频道",博斯魅力
-http://www.ubvip1688.com/ublive/ad203f939738aca1.m3u8
+http://www.ubvip1688.com/ublive/80e4b312b12ae259.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯魅力
-http://www.ubvip1688.com/ublive/ad203f939738aca1.m3u8
+http://www.ubvip1688.com/ublive/80e4b312b12ae259.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯魅力
 https://f07.googleling.com/live/rx1/175/daefd92214f4017d25b72e0c103a6963/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯魅力
-http://www.ubvip1688.com/ublive/ad203f939738aca1.m3u8
+http://www.ubvip1688.com/ublive/80e4b312b12ae259.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯魅力
 https://f07.googleling.com/live/rx1/175/daefd92214f4017d25b72e0c103a6963/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯魅力
@@ -2798,13 +2908,13 @@ mitv://generationnexxxt.com:19806/c585ebfbfc7c4260a8d9556b5409faf0
 #EXTINF:-1 group-title="台湾频道",博斯魅力
 p3p://108.181.20.159:09318/612ee43d000c84ea8e0dab707a8b2e0d
 #EXTINF:-1 group-title="台湾频道",博斯無限
-http://www.ubvip1688.com/ublive/1bb8469ee0006fa4.m3u8
+http://www.ubvip1688.com/ublive/fa5034a1009878e1.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限
-http://www.ubvip1688.com/ublive/1bb8469ee0006fa4.m3u8
+http://www.ubvip1688.com/ublive/fa5034a1009878e1.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限
 https://f05.eggonnetus.com/live/rx3/237/79557802d92d2a883ad535faeced15dc/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限
-http://www.ubvip1688.com/ublive/1bb8469ee0006fa4.m3u8
+http://www.ubvip1688.com/ublive/fa5034a1009878e1.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限
 https://f05.eggonnetus.com/live/rx3/237/79557802d92d2a883ad535faeced15dc/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限
@@ -2824,13 +2934,13 @@ mitv://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
 #EXTINF:-1 group-title="台湾频道",博斯無限
 video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
 #EXTINF:-1 group-title="台湾频道",博斯無限2
-http://www.ubvip1688.com/ublive/41e97533d329cf41.m3u8
+http://www.ubvip1688.com/ublive/f27425dda2a5ba6d.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限2
-http://www.ubvip1688.com/ublive/41e97533d329cf41.m3u8
+http://www.ubvip1688.com/ublive/f27425dda2a5ba6d.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限2
 https://f06.fromonlinexcomf.com/live/rx3/426/8313bde4d89a2f7ed7f1dd2cce84a797/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限2
-http://www.ubvip1688.com/ublive/41e97533d329cf41.m3u8
+http://www.ubvip1688.com/ublive/f27425dda2a5ba6d.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限2
 https://f06.fromonlinexcomf.com/live/rx3/426/8313bde4d89a2f7ed7f1dd2cce84a797/index.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯無限2
@@ -2896,11 +3006,11 @@ mitv://generationnexxxt.com:19806/baa16215e2224e399f6dc71eb3576ed4
 #EXTINF:-1 group-title="台湾频道",東森幼幼
 p3p://108.181.20.159:09318/62c9a6bb000ac34dc6a767036c5f3878
 #EXTINF:-1 group-title="台湾频道",靖天卡通
-http://www.ubvip1688.com/ublive/085654b768855a7a.m3u8
+http://www.ubvip1688.com/ublive/6fe3ed4442d82ff6.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天卡通
-http://www.ubvip1688.com/ublive/085654b768855a7a.m3u8
+http://www.ubvip1688.com/ublive/6fe3ed4442d82ff6.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天卡通
-http://www.ubvip1688.com/ublive/085654b768855a7a.m3u8
+http://www.ubvip1688.com/ublive/6fe3ed4442d82ff6.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天卡通
 https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天卡通
@@ -5831,7 +5941,7 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 #EXTINF:-1 group-title="🇫🇷🥖🗼France Sports🗼🥖🇫🇷",FR: RMC Sport 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
-#EXTINF:-1 group-title="更新时间",2024-12-29
+#EXTINF:-1 group-title="更新时间",2024-12-30
 url
-#EXTINF:-1 group-title="更新时间",16:10:22
+#EXTINF:-1 group-title="更新时间",04:14:09
 url
