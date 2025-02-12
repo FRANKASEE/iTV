@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="其他频道",BestTV测试3-4K
-http://119.98.161.79:4022/rtp/239.69.1.25:9790
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2859,7 +2857,7 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 #EXTINF:-1 group-title="🇫🇷🥖🗼France Sports🗼🥖🇫🇷",FR: RMC Sport 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
-#EXTINF:-1 group-title="更新时间",2025-02-11
+#EXTINF:-1 group-title="更新时间",2025-02-12
 url
-#EXTINF:-1 group-title="更新时间",16:13:10
+#EXTINF:-1 group-title="更新时间",04:13:55
 url
