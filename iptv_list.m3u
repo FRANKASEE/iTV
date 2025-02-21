@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://27.17.233.202:3520/rtp/239.254.96.234:9484
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://27.17.233.202:3520/rtp/239.69.1.105:10268
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://27.17.233.202:3520/rtp/239.69.1.247:11124
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://27.17.233.202:3520/rtp/239.69.1.212:10914
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://27.17.233.202:3520/rtp/239.69.1.68:10048
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://27.17.233.202:3520/rtp/239.69.1.69:10054
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://27.17.233.202:3520/rtp/239.69.1.151:10542
+#EXTINF:-1 group-title="湖北频道",湖北教育
+http://27.17.233.202:3520/rtp/239.69.1.206:10878
+#EXTINF:-1 group-title="其他频道",BestTV测试3-4K
+http://27.17.233.202:3520/rtp/239.69.1.25:9790
+#EXTINF:-1 group-title="其他频道",卡酷少儿
+http://27.17.233.202:3520/rtp/239.69.1.193:10800
+#EXTINF:-1 group-title="其他频道",金鹰纪实
+http://27.17.233.202:3520/rtp/239.69.1.109:10292
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2859,5 +2881,5 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 #EXTINF:-1 group-title="更新时间",2025-02-21
 url
-#EXTINF:-1 group-title="更新时间",04:12:51
+#EXTINF:-1 group-title="更新时间",16:13:26
 url
