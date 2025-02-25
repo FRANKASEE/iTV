@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://119.102.217.40:9000/rtp/239.254.96.96:8550
-#EXTINF:-1 group-title="央视频道",CCTV3
-http://119.102.217.40:9000/rtp/239.69.1.122:10370
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://119.102.217.40:9000/rtp/239.69.1.138:10466
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://119.102.217.40:9000/rtp/239.254.96.234:9484
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://119.102.217.40:9000/rtp/239.254.96.161:9040
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://119.102.217.40:9000/rtp/239.69.1.107:10280
-#EXTINF:-1 group-title="央视频道",CCTV17
-http://119.102.217.40:9000/rtp/239.69.1.152:10548
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://119.102.217.40:9000/rtp/239.69.1.212:10914
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://119.102.217.40:9000/rtp/239.254.96.142:8926
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://119.102.217.40:9000/rtp/239.69.1.173:10674
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://119.102.217.40:9000/rtp/239.69.1.151:10542
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://119.102.217.40:9000/rtp/239.254.96.137:8896
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://119.102.217.40:9000/rtp/239.254.96.139:8908
-#EXTINF:-1 group-title="湖北频道",武汉三台科技生活
-http://119.102.217.40:9000/rtp/239.69.1.251:11148
-#EXTINF:-1 group-title="其他频道",BestTV测试1-4K
-http://119.102.217.40:9000/rtp/239.69.1.26:9796
-#EXTINF:-1 group-title="其他频道",BestTV测试2-4K
-http://119.102.217.40:9000/rtp/239.69.1.27:9802
-#EXTINF:-1 group-title="其他频道",卡酷少儿
-http://119.102.217.40:9000/rtp/239.69.1.193:10800
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2891,7 +2857,7 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 #EXTINF:-1 group-title="🇫🇷🥖🗼France Sports🗼🥖🇫🇷",FR: RMC Sport 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
-#EXTINF:-1 group-title="更新时间",2025-02-24
+#EXTINF:-1 group-title="更新时间",2025-02-25
 url
-#EXTINF:-1 group-title="更新时间",16:14:11
+#EXTINF:-1 group-title="更新时间",04:13:08
 url
