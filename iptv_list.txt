@@ -1492,5 +1492,5 @@ FR:* RMC Sport 2 FHD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 FR: RMC Sport 2 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 FR: RMC Sport 3 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 更新时间,#genre#
-2025-03-05,url
-16:16:44,url
+2025-03-06,url
+04:12:34,url
