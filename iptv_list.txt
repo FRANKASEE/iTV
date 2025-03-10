@@ -1,14 +1,17 @@
 央视频道,#genre#
+CCTV11,http://27.17.172.92:4022/rtp/239.69.1.154:10560
 
 
 
 
 卫视频道,#genre#
+吉林卫视,http://27.17.172.92:4022/rtp/239.69.1.212:10914
 
 
 
 
 湖北频道,#genre#
+湖北生活,http://27.17.172.92:4022/rtp/239.69.1.205:10872
 
 其他频道,#genre#
 
@@ -1492,5 +1495,5 @@ FR:* RMC Sport 2 FHD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 FR: RMC Sport 2 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 FR: RMC Sport 3 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 更新时间,#genre#
-2025-03-09,url
-16:09:25,url
+2025-03-10,url
+04:12:14,url
