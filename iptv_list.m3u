@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV15
-http://27.18.138.21:4022/rtp/239.69.1.155:10566
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://27.18.138.21:4022/rtp/239.69.1.247:11124
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://27.18.138.21:4022/rtp/239.254.96.141:8920
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://27.18.138.21:4022/rtp/239.69.1.173:10674
-#EXTINF:-1 group-title="湖北频道",湖北生活
-http://27.18.138.21:4022/rtp/239.69.1.205:10872
-#EXTINF:-1 group-title="其他频道",BestTV测试1-4K
-http://27.18.138.21:4022/rtp/239.69.1.26:9796
-#EXTINF:-1 group-title="其他频道",卡酷少儿
-http://27.18.138.21:4022/rtp/239.69.1.193:10800
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2871,7 +2857,7 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 #EXTINF:-1 group-title="🇫🇷🥖🗼France Sports🗼🥖🇫🇷",FR: RMC Sport 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
-#EXTINF:-1 group-title="更新时间",2025-03-15
+#EXTINF:-1 group-title="更新时间",2025-03-16
 url
-#EXTINF:-1 group-title="更新时间",16:12:25
+#EXTINF:-1 group-title="更新时间",04:12:03
 url
