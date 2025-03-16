@@ -1,4 +1,44 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://111.176.181.146:4022/rtp/239.254.96.96:8550
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://111.176.181.146:4022/rtp/239.69.1.154:10560
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://111.176.181.146:4022/rtp/239.69.1.106:10274
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://111.176.181.146:4022/rtp/239.254.96.161:9040
+#EXTINF:-1 group-title="央视频道",CCTV16-4K
+http://111.176.181.146:4022/rtp/239.69.1.13:9718
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://111.176.181.146:4022/rtp/239.69.1.152:10548
+#EXTINF:-1 group-title="央视频道",CCTV高尔夫网球
+http://111.176.181.146:4022/rtp/239.69.1.83:10138
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://111.176.181.146:4022/rtp/239.254.96.138:8902
+#EXTINF:-1 group-title="湖北频道",湖北公共新闻
+http://111.176.181.146:4022/rtp/239.69.1.40:9880
+#EXTINF:-1 group-title="湖北频道",湖北垄上
+http://111.176.181.146:4022/rtp/239.69.1.43:9898
+#EXTINF:-1 group-title="其他频道",BestTV测试1-4K
+http://59.174.170.173:4022/rtp/239.69.1.26:9796
+#EXTINF:-1 group-title="其他频道",BestTV测试1-4K
+http://111.176.181.146:4022/rtp/239.69.1.26:9796
+#EXTINF:-1 group-title="其他频道",CETV1
+http://111.176.181.146:4022/rtp/239.69.1.110:10298
+#EXTINF:-1 group-title="其他频道",BestTV测试2-4K
+http://59.174.170.173:4022/rtp/239.69.1.27:9802
+#EXTINF:-1 group-title="其他频道",BestTV测试2-4K
+http://111.176.181.146:4022/rtp/239.69.1.27:9802
+#EXTINF:-1 group-title="其他频道",BestTV测试3-4K
+http://59.174.170.173:4022/rtp/239.69.1.25:9790
+#EXTINF:-1 group-title="其他频道",BestTV测试3-4K
+http://111.176.181.146:4022/rtp/239.69.1.25:9790
+#EXTINF:-1 group-title="其他频道",梨园频道
+http://111.176.181.146:4022/rtp/239.69.1.33:9838
+#EXTINF:-1 group-title="其他频道",武术世界
+http://111.176.181.146:4022/rtp/239.69.1.47:9922
+#EXTINF:-1 group-title="其他频道",金鹰纪实
+http://111.176.181.146:4022/rtp/239.69.1.109:10292
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2859,5 +2899,5 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 #EXTINF:-1 group-title="更新时间",2025-03-16
 url
-#EXTINF:-1 group-title="更新时间",04:12:03
+#EXTINF:-1 group-title="更新时间",16:12:13
 url
