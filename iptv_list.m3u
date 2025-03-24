@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://119.102.216.64:9000/rtp/239.69.1.138:10466
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://119.102.216.64:9000/rtp/239.69.1.123:10376
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://119.102.216.64:9000/rtp/239.254.96.234:9484
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://119.102.216.64:9000/rtp/239.69.1.154:10560
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://119.102.216.64:9000/rtp/239.69.1.106:10274
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://119.102.216.64:9000/rtp/239.254.96.161:9040
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://119.102.216.64:9000/rtp/239.69.1.107:10280
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://119.102.216.64:9000/rtp/239.69.1.155:10566
+#EXTINF:-1 group-title="央视频道",CCTV16奥林匹克-4K
+http://119.102.216.64:9000/rtp/239.69.1.249:11136
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://119.102.216.64:9000/rtp/239.69.1.152:10548
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://119.102.216.64:9000/rtp/239.69.1.108:10286
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://119.102.216.64:9000/rtp/239.69.1.173:10674
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://119.102.216.64:9000/rtp/239.254.96.142:8926
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://119.102.216.64:9000/rtp/239.254.96.137:8896
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://119.102.216.64:9000/rtp/239.69.1.151:10542
+#EXTINF:-1 group-title="湖北频道",湖北公共新闻
+http://119.102.216.64:9000/rtp/239.69.1.40:9880
+#EXTINF:-1 group-title="湖北频道",湖北垄上
+http://119.102.216.64:9000/rtp/239.69.1.43:9898
+#EXTINF:-1 group-title="其他频道",BestTV测试2-4K
+http://119.102.216.64:9000/rtp/239.69.1.27:9802
+#EXTINF:-1 group-title="其他频道",BestTV测试3-4K
+http://119.102.216.64:9000/rtp/239.69.1.25:9790
+#EXTINF:-1 group-title="其他频道",快乐垂钓
+http://119.102.216.64:9000/rtp/239.69.1.142:10488
+#EXTINF:-1 group-title="其他频道",梨园频道
+http://119.102.216.64:9000/rtp/239.69.1.33:9838
+#EXTINF:-1 group-title="其他频道",蔡甸综合
+http://119.102.216.64:9000/rtp/239.69.1.245:11112
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2859,5 +2903,5 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 #EXTINF:-1 group-title="更新时间",2025-03-24
 url
-#EXTINF:-1 group-title="更新时间",04:13:15
+#EXTINF:-1 group-title="更新时间",16:15:27
 url
