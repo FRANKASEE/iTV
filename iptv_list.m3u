@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://58.50.153.13:4022/rtp/239.254.96.234:9484
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://58.50.153.13:4022/rtp/239.69.1.154:10560
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://58.50.153.13:4022/rtp/239.69.1.169:10650
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://58.50.153.13:4022/rtp/239.69.1.71:10066
-#EXTINF:-1 group-title="其他频道",房县综合
-http://58.50.153.13:4022/rtp/239.69.1.192:10794
-#EXTINF:-1 group-title="其他频道",金鹰卡通
-http://58.50.153.13:4022/rtp/239.69.1.248:11130
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2869,7 +2857,7 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 #EXTINF:-1 group-title="🇫🇷🥖🗼France Sports🗼🥖🇫🇷",FR: RMC Sport 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
-#EXTINF:-1 group-title="更新时间",2025-04-22
+#EXTINF:-1 group-title="更新时间",2025-04-23
 url
-#EXTINF:-1 group-title="更新时间",16:13:59
+#EXTINF:-1 group-title="更新时间",04:14:19
 url
