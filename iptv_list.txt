@@ -1,13 +1,9 @@
 央视频道,#genre#
-CCTV5+,http://58.50.153.13:4022/rtp/239.254.96.234:9484
-CCTV11,http://58.50.153.13:4022/rtp/239.69.1.154:10560
 
 
 
 
 卫视频道,#genre#
-四川卫视,http://58.50.153.13:4022/rtp/239.69.1.169:10650
-辽宁卫视,http://58.50.153.13:4022/rtp/239.69.1.71:10066
 
 
 
@@ -15,8 +11,6 @@ CCTV11,http://58.50.153.13:4022/rtp/239.69.1.154:10560
 湖北频道,#genre#
 
 其他频道,#genre#
-房县综合,http://58.50.153.13:4022/rtp/239.69.1.192:10794
-金鹰卡通,http://58.50.153.13:4022/rtp/239.69.1.248:11130
 
 
 
@@ -1498,5 +1492,5 @@ FR:* RMC Sport 2 FHD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 FR: RMC Sport 2 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 FR: RMC Sport 3 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 更新时间,#genre#
-2025-04-22,url
-16:13:59,url
+2025-04-23,url
+04:14:19,url
