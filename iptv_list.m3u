@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="其他频道",阳新综合
+http://119.98.143.94:4022/rtp/239.69.1.34:9844
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2859,5 +2861,5 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 #EXTINF:-1 group-title="更新时间",2025-04-30
 url
-#EXTINF:-1 group-title="更新时间",04:13:06
+#EXTINF:-1 group-title="更新时间",16:14:54
 url
