@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://221.234.143.57:8888/rtp/239.69.1.103:10256
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://221.234.143.57:8888/rtp/239.69.1.125:10388
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://219.140.38.1:12345/rtp/239.69.1.104:10262
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://219.140.38.1:12345/rtp/239.69.1.105:10268
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://221.234.143.57:8888/rtp/239.69.1.105:10268
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://221.234.143.57:8888/rtp/239.254.96.161:9040
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://219.140.38.1:12345/rtp/239.254.96.161:9040
-#EXTINF:-1 group-title="央视频道",CCTV央视台球
-http://219.140.38.1:12345/rtp/239.69.1.98:10224
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://219.140.38.1:12345/rtp/239.69.1.174:10680
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://221.234.143.57:8888/rtp/239.254.96.139:8908
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://221.234.143.57:8888/rtp/239.254.96.115:8664
-#EXTINF:-1 group-title="湖北频道",湖北教育
-http://219.140.38.1:12345/rtp/239.69.1.206:10878
-#EXTINF:-1 group-title="湖北频道",湖北经视
-http://221.234.143.57:8888/rtp/239.69.1.41:9886
-#EXTINF:-1 group-title="湖北频道",湖北生活
-http://221.234.143.57:8888/rtp/239.69.1.205:10872
-#EXTINF:-1 group-title="湖北频道",湖北卫视
-http://221.234.143.57:8888/rtp/239.254.96.115:8664
-#EXTINF:-1 group-title="其他频道",BestTV测试1-4K
-http://221.234.143.57:8888/rtp/239.69.1.26:9796
-#EXTINF:-1 group-title="其他频道",BestTV测试2-4K
-http://221.234.143.57:8888/rtp/239.69.1.27:9802
-#EXTINF:-1 group-title="其他频道",武术世界
-http://219.140.38.1:12345/rtp/239.69.1.47:9922
-#EXTINF:-1 group-title="其他频道",金鹰卡通
-http://221.234.143.57:8888/rtp/239.69.1.248:11130
-#EXTINF:-1 group-title="其他频道",金鹰纪实
-http://221.234.143.57:8888/rtp/239.69.1.109:10292
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2899,5 +2859,5 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 #EXTINF:-1 group-title="更新时间",2025-05-17
 url
-#EXTINF:-1 group-title="更新时间",04:14:20
+#EXTINF:-1 group-title="更新时间",16:12:21
 url
