@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://59.174.118.139:8888/rtp/239.69.1.138:10466
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://59.174.118.139:8888/rtp/239.254.96.234:9484
+#EXTINF:-1 group-title="央视频道",CCTV16-4K
+http://59.174.118.139:8888/rtp/239.69.1.13:9718
+#EXTINF:-1 group-title="央视频道",CCTV16奥林匹克-4K
+http://59.174.118.139:8888/rtp/239.69.1.249:11136
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://59.174.118.139:8888/rtp/239.69.1.168:10644
+#EXTINF:-1 group-title="湖北频道",武汉二台电视剧
+http://59.174.118.139:8888/rtp/239.69.1.146:10512
+#EXTINF:-1 group-title="其他频道",BestTV测试2-4K
+http://59.174.118.139:8888/rtp/239.69.1.27:9802
+#EXTINF:-1 group-title="其他频道",BestTV测试3-4K
+http://59.174.118.139:8888/rtp/239.69.1.25:9790
+#EXTINF:-1 group-title="其他频道",金鹰纪实
+http://59.174.118.139:8888/rtp/239.69.1.109:10292
+#EXTINF:-1 group-title="其他频道",阳新综合
+http://59.174.118.139:8888/rtp/239.69.1.34:9844
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2857,7 +2877,7 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 #EXTINF:-1 group-title="🇫🇷🥖🗼France Sports🗼🥖🇫🇷",FR: RMC Sport 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
-#EXTINF:-1 group-title="更新时间",2025-06-01
+#EXTINF:-1 group-title="更新时间",2025-06-02
 url
-#EXTINF:-1 group-title="更新时间",16:11:20
+#EXTINF:-1 group-title="更新时间",04:23:51
 url
