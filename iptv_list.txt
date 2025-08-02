@@ -1,4 +1,6 @@
 央视频道,#genre#
+CCTV5,http://58.50.152.228:4022/rtp/239.69.1.123:10376
+CCTV16,http://58.50.152.228:4022/rtp/239.69.1.247:11124
 
 
 
@@ -9,8 +11,13 @@
 
 
 湖北频道,#genre#
+武汉六台外语,http://58.50.152.228:4022/rtp/239.69.1.36:9856
+武汉三台科技生活,http://58.50.152.228:4022/rtp/239.69.1.251:11148
 
 其他频道,#genre#
+BestTV测试1-4K,http://58.50.152.228:4022/rtp/239.69.1.26:9796
+梨园频道,http://58.50.152.228:4022/rtp/239.69.1.33:9838
+金鹰纪实,http://58.50.152.228:4022/rtp/239.69.1.109:10292
 
 
 
@@ -1492,5 +1499,5 @@ FR:* RMC Sport 2 FHD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 FR: RMC Sport 2 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 FR: RMC Sport 3 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 更新时间,#genre#
-2025-08-01,url
-16:15:36,url
+2025-08-02,url
+04:28:48,url
