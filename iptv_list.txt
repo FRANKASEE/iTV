@@ -1,21 +1,14 @@
 央视频道,#genre#
-CCTV3,http://219.139.231.97:4000/rtp/239.69.1.122:10370
-CCTV16,http://219.139.231.97:4000/rtp/239.69.1.247:11124
-CCTV16-4K,http://219.139.231.97:4000/rtp/239.69.1.13:9718
 
 
 
 
 卫视频道,#genre#
-江西卫视,http://219.139.231.97:4000/rtp/239.69.1.126:10394
-河南卫视,http://219.139.231.97:4000/rtp/239.69.1.168:10644
-江苏卫视,http://219.139.231.97:4000/rtp/239.254.96.144:8938
 
 
 
 
 湖北频道,#genre#
-武汉三台科技生活,http://219.139.231.97:4000/rtp/239.69.1.251:11148
 
 其他频道,#genre#
 
@@ -1499,5 +1492,5 @@ FR:* RMC Sport 2 FHD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/186421
 FR: RMC Sport 2 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 FR: RMC Sport 3 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 更新时间,#genre#
-2025-08-16,url
-16:13:12,url
+2025-08-17,url
+04:25:01,url
