@@ -11,6 +11,7 @@
 湖北频道,#genre#
 
 其他频道,#genre#
+BestTV测试3-4K,http://27.18.138.52:4022/rtp/239.69.1.25:9790
 
 
 
@@ -1493,4 +1494,4 @@ FR: RMC Sport 2 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 FR: RMC Sport 3 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 更新时间,#genre#
 2025-09-01,url
-04:21:05,url
+16:12:41,url
