@@ -1,46 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://58.48.105.149:4022/rtp/239.254.96.96:8550
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://58.48.105.149:4022/rtp/239.69.1.102:10250
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://58.48.105.149:4022/rtp/239.69.1.12:9712
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://58.48.105.149:4022/rtp/239.69.1.123:10376
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://58.48.105.149:4022/rtp/239.69.1.154:10560
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://58.48.105.149:4022/rtp/239.254.96.161:9040
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://58.48.105.149:4022/rtp/239.69.1.107:10280
-#EXTINF:-1 group-title="央视频道",CCTV16奥林匹克-4K
-http://58.48.105.149:4022/rtp/239.69.1.249:11136
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://58.48.105.149:4022/rtp/239.69.1.212:10914
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://58.48.105.149:4022/rtp/239.69.1.68:10048
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://58.48.105.149:4022/rtp/239.69.1.69:10054
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://58.48.105.149:4022/rtp/239.69.1.169:10650
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://58.48.105.149:4022/rtp/239.254.96.140:8914
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://58.48.105.149:4022/rtp/239.69.1.191:10788
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://58.48.105.149:4022/rtp/239.254.96.144:8938
-#EXTINF:-1 group-title="湖北频道",湖北公共新闻
-http://58.48.105.149:4022/rtp/239.69.1.40:9880
-#EXTINF:-1 group-title="湖北频道",湖北综合
-http://58.48.105.149:4022/rtp/239.69.1.42:9892
-#EXTINF:-1 group-title="其他频道",BestTV测试1-4K
-http://58.48.105.149:4022/rtp/239.69.1.26:9796
-#EXTINF:-1 group-title="其他频道",BestTV测试3-4K
-http://58.48.105.149:4022/rtp/239.69.1.25:9790
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://58.48.105.149:4022/rtp/239.69.1.142:10488
-#EXTINF:-1 group-title="其他频道",房县综合
-http://58.48.105.149:4022/rtp/239.69.1.192:10794
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 1-USA Network
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
 #EXTINF:-1 group-title="🎊Foreign Sports🎊",Premier 2-USA Network
@@ -2901,5 +2859,5 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3063
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342421
 #EXTINF:-1 group-title="更新时间",2025-09-09
 url
-#EXTINF:-1 group-title="更新时间",04:12:50
+#EXTINF:-1 group-title="更新时间",16:12:36
 url
